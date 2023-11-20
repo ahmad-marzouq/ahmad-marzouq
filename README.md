@@ -18,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-marzouq&show_icons=true&locale=en" alt="ahmad-marzouq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-marzouq&" alt="ahmad-marzouq" /></p>
+
+[![ahmad-marzouq's GitHub | Stats](https://stats.quine.sh/ahmad-marzouq/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=ahmad-marzouq)
+[![ahmad-marzouq's GitHub | Topics Over Time](https://stats.quine.sh/ahmad-marzouq/topics-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=ahmad-marzouq)
+[![ahmad-marzouq's GitHub | Languages Over Time](https://stats.quine.sh/ahmad-marzouq/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=ahmad-marzouq)
